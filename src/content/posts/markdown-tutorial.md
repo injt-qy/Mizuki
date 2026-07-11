@@ -1,6 +1,6 @@
 ---
 title: 死人邓云付
-published: 2022-05-1
+published: 2022-05-01
 pinned: true
 description: A simple example of a Markdown blog post.
 tags: [Markdown, Blogging]
